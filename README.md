@@ -42,10 +42,8 @@ Cole o código da etiqueta, preencha os valores de exemplo e acompanhe a prévia
 Após habilitar o GitHub Pages, a ferramenta ficará disponível em:
 
 ```text
-https://SEU-USUARIO.github.io/argox-ppla-preview/
+https://studiols.github.io/argox-ppla-preview/
 ```
-
-Substitua `SEU-USUARIO` pelo seu nome de usuário ou organização no GitHub.
 
 ### Localmente
 

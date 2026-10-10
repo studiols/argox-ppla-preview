@@ -42,7 +42,7 @@ Cole o código da etiqueta, preencha os valores de exemplo e acompanhe a prévia
 Após habilitar o GitHub Pages, a ferramenta ficará disponível em:
 
 ```text
-https://studiols.github.io/argox-ppla-preview/
+https://studiols.github.io/argox-ppla-preview/argox_preview.html
 ```
 
 ### Localmente
